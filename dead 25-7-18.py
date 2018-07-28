@@ -15,5 +15,5 @@ def dead(a,b):
 a = input("Are you Male or Female? ").lower()
 b = int(input("I was born in the year: "))
 print("You'll probably die around the year", dead(a,b))
-input("I was born in the year: ")
+delay = input("Press enter to finish")
 
